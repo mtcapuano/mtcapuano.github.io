@@ -1,6 +1,6 @@
 ### Mattia Capuano
 
-PhD student at [Research Centre for Mathematics and Theoretical Physics]([url](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics)) at the University of Hertfordshire under the supervision of Tomasz Łukowski. [Inspire]([url](https://inspirehep.net/authors/2923397)).
+PhD student at [Research Centre for Mathematics and Theoretical Physics]([url](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics)) at the University of Hertfordshire under the supervision of Tomasz Łukowski. [Inspire profile](https://inspirehep.net/authors/2923397).
 
 Contact: m.capuano at herts.ac.uk
 
