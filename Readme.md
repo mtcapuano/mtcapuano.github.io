@@ -19,7 +19,7 @@ Contact: m.capuano at herts.ac.uk
 
 **Notes and teaching**
 
-* [Notes]([url](/main/Notes/Feynman%20integrals%3A%20from%20Integration-by-Parts%20identities%20to%20Twisted%20Cohomology.pdf)) for _Feynman integrals: from Integration-by-Parts identities to Twisted Cohomology_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Fall 2026;
-* [Notes]([url](/main/Notes/Iterated%20integrals%2C%20monodromies%2C%20Multiple%20Zeta%20Values%20and%20Quantum%20Field%20Theory.pdf)) for _Iterated integrals, monodromies, Multiple Zeta Values and Quantum Field Theory_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Spring 2026.
+* [Notes](Notes/Feynman%20integrals%3A%20from%20Integration-by-Parts%20identities%20to%20Twisted%20Cohomology.pdf) for _Feynman integrals: from Integration-by-Parts identities to Twisted Cohomology_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Fall 2026;
+* [Notes](Notes/Iterated%20integrals%2C%20monodromies%2C%20Multiple%20Zeta%20Values%20and%20Quantum%20Field%20Theory.pdf) for _Iterated integrals, monodromies, Multiple Zeta Values and Quantum Field Theory_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Spring 2026.
 
 
