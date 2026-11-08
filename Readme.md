@@ -13,13 +13,15 @@ Contact: m.capuano at herts.ac.uk
 
 **Talks**
 
-* Loop-the-Loop 2026, 16-20 Nov 2026
+* _Loop-the-Loop 2026_, 16-20 Nov 2026
 * _Cosmology meets Cluster Algebra_, Scattering amplitudes: from positive geometries to analytic structures, Pollica Physics Workshop, 14-25 Sept 2026 
 * _Differential equations for cosmological correlators_, Milan Christmas Meeting 2025, 22-23 Dec 2025
 
 **Notes and teaching**
 
-* [Notes](Notes/Feynman%20integrals%3A%20from%20Integration-by-Parts%20identities%20to%20Twisted%20Cohomology.pdf) for _Feynman integrals: from Integration-by-Parts identities to Twisted Cohomology_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Fall 2026;
-* [Notes](Notes/Iterated%20integrals%2C%20monodromies%2C%20Multiple%20Zeta%20Values%20and%20Quantum%20Field%20Theory.pdf) for _Iterated integrals, monodromies, Multiple Zeta Values and Quantum Field Theory_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Spring 2026.
+* <a href="https://mtcapuano.github.io/Notes/Feynman%20integrals%3A%20from%20Integration-by-Parts%20identities%20to%20Twisted%20Cohomology.pdf" target="_blank">Notes</a> for _Feynman integrals: from Integration-by-Parts identities to Twisted Cohomology_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Fall 2026;
+* <a href="https://mtcapuano.github.io/Notes/Iterated%20integrals%2C%20monodromies%2C%20Multiple%20Zeta%20Values%20and%20Quantum%20Field%20Theory.pdf" target="_blank">Notes</a> for _Iterated integrals, monodromies, Multiple Zeta Values and Quantum Field Theory_, a two-part seminar for the _Research Seminar_ module for the Master students of Theoretical Physics at the University of Hertfordshire, Spring 2026.
 
+**Organisation**
 
+I have organised with Alessandro Palazio, Augustus Brown and Rowan Wright the meeting _Correlators and Amplitudes in the South East 2026_ at the University of Hertfordshire, kindly funded by [GradNet](https://sepnet.ac.uk/sepnet-graduate-network/). Talks and recordings can be found at [case2026.com](https://case2026.com/).
