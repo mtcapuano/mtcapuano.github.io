@@ -19,7 +19,7 @@ Contact: m.capuano at herts.ac.uk
 
 **Notes and teaching**
 
-*Notes on Feynman Integrals and Twisted Cohomology for the Research Seminar module for the Master students at the University of Hertfordshire;
-*Notes on Iterated Integrals in QFT for the Research Seminar module for the Master students at the University of Hertfordshire.
+* Notes on Feynman Integrals and Twisted Cohomology for the Research Seminar module for the Master students at the University of Hertfordshire;
+* Notes on Iterated Integrals in QFT for the Research Seminar module for the Master students at the University of Hertfordshire.
 
 
