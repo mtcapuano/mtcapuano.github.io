@@ -1,6 +1,10 @@
 ### Mattia Capuano
 
-PhD student at [Research Centre for Mathematics and Theoretical Physics]([url](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics)) at the University of Hertfordshire under the supervision of Tomasz Łukowski. [Inspire profile](https://inspirehep.net/authors/2923397).
+I am a PhD student at the [Research Centre for Mathematics and Theoretical Physics](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics) at the University of Hertfordshire under the supervision of Dr. Tomasz Łukowski. I am broadly interested in Scattering Amplitudes and perturbative QFT. At the moment my research is focused on applying Amplitudes techniques to Cosmology, with particular attention to Positive Geometry, Cluster Algebra and Symbology.
+
+[Inspire profile](https://inspirehep.net/authors/2923397)
+
+<a href="https://mtcapuano.github.io/CV.pdf" target="_blank">CV</a>
 
 Contact: m.capuano at herts.ac.uk
 
@@ -13,9 +17,9 @@ Contact: m.capuano at herts.ac.uk
 
 **Talks**
 
-* _Loop-the-Loop 2026_, 16-20 Nov 2026
-* _Cosmology meets Cluster Algebra_, Scattering amplitudes: from positive geometries to analytic structures, Pollica Physics Workshop, 14-25 Sept 2026 
-* _Differential equations for cosmological correlators_, Milan Christmas Meeting 2025, 22-23 Dec 2025
+* _Loop-the-Loop 2026_, 16-20 Nov 2026;
+* _Cosmology meets Cluster Algebra_, Scattering amplitudes: from positive geometries to analytic structures, Pollica Physics Workshop, 14-25 Sept 2026;
+* _Differential equations for cosmological correlators_, Milan Christmas Meeting 2025, 22-23 Dec 2025.
 
 **Notes and teaching**
 
@@ -24,4 +28,4 @@ Contact: m.capuano at herts.ac.uk
 
 **Organisation**
 
-I have organised with Alessandro Palazio, Augustus Brown and Rowan Wright the meeting _Correlators and Amplitudes in the South East 2026_ at the University of Hertfordshire, kindly funded by [GradNet](https://sepnet.ac.uk/sepnet-graduate-network/). Talks and recordings can be found at [case2026.com](https://case2026.com/).
+I have organised with Alessandro Palazio, Augustus Brown and Rowan Wright the meeting _Correlators and Amplitudes in the South East 2026_ at the University of Hertfordshire, kindly funded by [GradNet](https://sepnet.ac.uk/sepnet-graduate-network/). Talks and recordings can be found at [case2026.com](https://case2026.com/) and on [YouTube](https://youtube.com/playlist?list=PLymlk6iouzJjJird3goU-GuzTW4jHxxOu&si=D3LfkhXPS1UeE9RA).
