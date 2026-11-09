@@ -10,10 +10,10 @@ Contact: m.capuano at herts.ac.uk
 
 **Papers and Preprints**
 
-* Contributed to the chapter _The Disordered Universe 2025: Analytic Properties of Amplitudes and Correlator_ (https://arxiv.org/abs/2610.36271), edited by [Springer](https://link.springer.com/book/9783032389534)  
-* _Generalised Cluster Adjacency for Cosmology_, with L. Ferro, T. Łukowski, A. Palazio, Yao-Qi Zhang (https://arxiv.org/abs/2603.09965), Published in: JHEP 11 (2026) 010
-* _Cosmology meets cluster algebra_, with L. Ferro, T. Łukowski, A. Palazio (https://arxiv.org/abs/2512.14859)
-* _Canonical Differential Equations for Cosmology from Positive Geometries_, with L. Ferro, T. Łukowski, A. Palazio (https://arxiv.org/abs/2505.14609)
+* Contributed to the chapter [_The Disordered Universe 2025: Analytic Properties of Amplitudes and Correlator_](https://arxiv.org/abs/2610.36271), edited by [Springer](https://link.springer.com/book/9783032389534);
+* [_Generalised Cluster Adjacency for Cosmology_](https://arxiv.org/abs/2603.09965), with L. Ferro, T. Łukowski, A. Palazio, Yao-Qi Zhang, Published in: JHEP 11 (2026) 010;
+* [_Cosmology meets cluster algebra_](https://arxiv.org/abs/2512.14859), with L. Ferro, T. Łukowski, A. Palazio;
+* [_Canonical Differential Equations for Cosmology from Positive Geometries_](https://arxiv.org/abs/2505.14609), with L. Ferro, T. Łukowski, A. Palazio.
 
 **Talks**
 
